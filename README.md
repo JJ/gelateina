@@ -16,12 +16,12 @@ del gengibre.
    Citrus](https://www.teashop.com/te-verde-ushuaia-ginger-citrus&13148.cantidad=3154?gclid=CjwKCAjw3ueiBhBmEiwA4BhspP_44N8zmOexcNyX_PT0pwa0VSj42O8XndHlReXZ5Lf4snE8hWn3GhoCdl8QAvD_BwE),
    de Tea Shop. Alternativamente, té verde con lima y gengibre; el macha y mate
    que llevan estos son opcionales (pero aportan el punto amargo).
-   
 2. Mermelada de higos; you uso 1001 Delights, del Lidl, pero vale cualquiera. De
    hecho, vale casi cualquier mermelada (he probado también *spread* de pétalos
    de rosa, pero no daba tan buen resultado).
 3. Gelatina neutra (hacendado o de cualquier otra marca).
-4. Azúcar moreno o panela.
+4. Azúcar moreno o panela. Cualquier endulzante vale, pero esta da un color
+   caramelo muy guay.
 
 ![Ingredientes más o
 menos](https://live.staticflickr.com/65535/52883922216_42b134b4f9_k_d.jpg)
