@@ -46,9 +46,11 @@ láminas de gelatina por 3-4 cucharadas (colmadas) de mermelada.
    esté frío.
 
 
-Puedes servirlo frío, pero tampoco pasa nada si lleva un rato fuera. Por otro
+Puedes servirlo frío, pero tampoco pasa nada si lleva un rato fuera (pero no
+mucho, porque se derrite la gelatina). Por otro
 lado, puedes intentar verterlo en un platito, igual queda más mono, pero tampoco
-hace falta.
+hace falta y te lo puedes cargar si no lo haces con cuidado (yo no lo he
+conseguido).
 
 ## Como queda
 
