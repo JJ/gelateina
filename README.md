@@ -1,4 +1,4 @@
-# GelaTeina
+# GelaTeina [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/JJ/gelateina/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/JJ/gelateina/actions/workflows/jekyll-gh-pages.yml)
 
 Receta para el próximo de postres de la [ETSIIT](https://etsiit.ugr.es)
 organizado por la [DEIIT](https://deiit.ugr.es) en el año 2023.
@@ -57,3 +57,41 @@ conseguido).
 ![La de arriba a la izquierda es la
 definitiva](https://live.staticflickr.com/65535/52884365503_65b107fc47_4k_d.jpg)
 
+
+## La canción de la gelateína
+
+Le pedí a ChatGPT que me escribiera una canción sobre la gelateína. Me generó
+esto, con música de "Bailaré sobre tu tumba", de [Siniestro
+Total](https://siniestro.com)
+
+```text
+Gelateina, la nueva obsesión
+Hecha de gelatina, té y mate en una fusión
+Con lima, matcha y gengibre, una combinación
+Mermelada de pétalos de rosa o de higo, ¡qué tentación!
+
+Cada bocado es una aventura
+Es un postre que te cautiva con ternura
+Gelateina, ¡qué delicia tan pura!
+Es un manjar que siempre me asegura
+
+Que cada bocado es un éxtasis
+Y no puedo evitar sentir un clímax
+Gelateina, ¡qué placer tan rapaz!
+Quiero más y más, ¡no me juzgues, por favor!
+
+Es mi adicción, no lo puedo evitar
+Es mi postre favorito sin igual
+Gelateina, ¡es mi necesidad!
+No puedo resistirme, es mi debilidad
+
+Así que si quieres probar algo nuevo
+Gelateina es el postre que te dejará sin aliento
+Gelateina, ¡es lo que necesitas!
+Una explosión de sabor que te hará sentir viva.
+```
+
+## Licencia
+
+Esta receta está liberada, como muestra el fichero [`LICENSE`](LICENSE), con la
+licencia GPL-3.0.
